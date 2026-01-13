@@ -1,0 +1,10 @@
+name: nexus
+
+channels:
+- conda-forge
+
+dependencies:
+- python=3.14
+- jupyter-book>=2
+- mystmd
+- pyyaml

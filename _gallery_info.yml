@@ -1,12 +1,9 @@
 thumbnail: CISP-2024-Long-term-climatological-patterns-East-Africa-figure.png
 tags:
   domains:
-  - Climate Science
   - NDVI
-  - Vegetation Dynamics
   - Cloud Coverage
   - Remote Sensing
-  - East Africa
   - Juba-Shabelle Basin
   packages:
   - package1

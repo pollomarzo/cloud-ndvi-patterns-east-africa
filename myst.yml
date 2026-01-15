@@ -1,6 +1,7 @@
 version: 1
 extends:
 - https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
 
 project:
   authors:
@@ -37,10 +38,3 @@ project:
   downloads:
   - file: CISP-2024-Long-term-climatological-patterns-East-Africa-code.zip
     title: Code
-  # plugins:
-  # - github-issues.mjs
-
-site:
-  template: book-theme
-  options:
-    hide_toc: true

@@ -11,6 +11,15 @@ abstract: |
     The study investigates climate-vegetation dynamics in the Juba-Shabelle basin using AVHRR v5 and VIIRS v1 NDVI data. Cloud coverage's impact on regional NDVI estimates is analyzed for sustainable resource management. Satellite sensors, crucial for assessing vegetation dynamics, reveal seasonal NDVI and cloud variations and long term spatial distribution. Results show increased pixel loss during rainy seasons due to clouds, highlighting their impact on vegetation estimates. The study underscores the importance of understanding land-atmosphere interactions for sustainable management, suggesting methods to mitigate cloud impact on NDVI calculations. Future research may focus on El Niño's lag correlation with NDVI, aiding food security predictions.
 ---
 
+# Seminar presentation
+```{iframe} https://www.youtube.com/embed/nqclLtZCIfM
+:width: 100%
+
+This article was presented as part of a series of seminars chaired by scientists from Climatematch Academy’s collaborating organizations, CMIP (Couple Model Intercomparison Project) and LEAP (Learning the Earth with Artificial Intelligence and Physics).
+```
+
+
+
 # Long-term Climatological Patterns of Cloud Coverage and NDVI in East Africa
 
 ## Introduction

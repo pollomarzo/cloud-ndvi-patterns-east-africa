@@ -1,9 +1,11 @@
 version: 1
 extends:
 - https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
-- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/climatematch-2023.yml
 
 project:
+  doi: 10.5281/zenodo.11001991
+  date: 2024-04-20
   authors:
   - name: Jesús Pozo
     orcid: 0000-0001-5643-3444
